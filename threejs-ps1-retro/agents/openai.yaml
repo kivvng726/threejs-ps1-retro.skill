@@ -1,0 +1,4 @@
+interface:
+  display_name: "Three.js PS1 Retro"
+  short_description: "Migrate stable PS1 pixel rendering into Three.js scenes."
+  default_prompt: "Use $threejs-ps1-retro to add the reusable PS1 pixel rendering pipeline to this Three.js scene."
